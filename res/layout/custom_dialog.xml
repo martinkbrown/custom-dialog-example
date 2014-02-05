@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/seekBar1"
-        android:text="Done" />
+        android:text="@string/done" />
 
     <EditText
         android:id="@+id/editText1"

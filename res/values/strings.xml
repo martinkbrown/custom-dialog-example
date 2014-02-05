@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, CustomDialogExampleActivity!</string>
     <string name="app_name">CustomDialogExample</string>
+    <string name="show_dialog">Show Custom Dialog</string>
+    <string name="done">Done</string>
 
 </resources>
